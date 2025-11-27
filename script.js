@@ -590,64 +590,7 @@ const data = {
             ]
         }
     ],
-    "houses": [
-        {
-            "id": "house_001",
-            "type": "Mansión Moderna",
-            "location": "Vinewood Hills",
-            "price": 6500,
-            "badge": "luxury",
-            "images": [
-                "https://media.discordapp.net/attachments/1425311490511998976/1435329092567171185/9.png?ex=692892e2&is=69274162&hm=50fbcbacdc0e8c5a8c6b32f486d39ae9a8098bbbee085050658d79f01b21e0c9&=&format=webp&quality=lossless&width=808&height=436",
-                "http://static.photos/realestate/640x360/2"
-            ]
-        },
-        {
-            "id": "house_002",
-            "type": "Apartamento",
-            "location": "Downtown",
-            "price": 6500,
-            "badge": "premium",
-            "images": [
-                "http://static.photos/realestate/640x360/3"
-            ]
-        },
-        {
-            "id": "house_003",
-            "type": "Casa de Playa",
-            "location": "Vespucci Beach",
-            "price": 6500,
-            "badge": "luxury",
-            "images": [
-                "http://static.photos/realestate/640x360/4",
-                "http://static.photos/realestate/640x360/5",
-                "http://static.photos/realestate/640x360/6"
-            ]
-        }
-    ],
-    "businesses": [
-        {
-            "id": "business_001",
-            "type": "Club Nocturno",
-            "location": "Del Perro",
-            "price": 6500,
-            "badge": "exclusive",
-            "images": [
-                "http://static.photos/nightclub/640x360/1",
-                "http://static.photos/nightclub/640x360/2"
-            ]
-        },
-        {
-            "id": "business_002",
-            "type": "Concesionario",
-            "location": "Pillbox Hill",
-            "price": 6500,
-            "badge": "premium",
-            "images": [
-                "http://static.photos/dealership/640x360/1"
-            ]
-        }
-    ]
+   
 };
 
 document.addEventListener('DOMContentLoaded', function() {
